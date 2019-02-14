@@ -91,6 +91,7 @@ namespace TrabalhoOraculoRedis
         //        }
         //    }
             
+
         //}
 
         public async static Task<string> BuscaNoGoogle(string url)
